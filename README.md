@@ -14,4 +14,4 @@
 
 4. Click on the button and you should be good to go!
    
-    [](/assets/output-table.png) 
+    ![](/assets/output-table.png) 
