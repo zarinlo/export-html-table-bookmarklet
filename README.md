@@ -14,4 +14,4 @@
 
 4. Click on the button and you should be good to go!
    
-    [](/assets/oxutput-table.png) 
+    [](/assets/output-table.png) 
